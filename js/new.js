@@ -58,4 +58,4 @@ const displayNewsCard = (newsDisplay) => {
 
 
 
-newDetail()
+// newDetail()
